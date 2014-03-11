@@ -1,0 +1,37 @@
+---
+layout: default
+title: James Partaker - Software Developer
+---
+
+<div id="home-page">
+
+    <h1>James Partaker</h1>
+    <h2>Software Developer</h2>
+
+    <p id="site-introduction">Hello, I am a Computer Science Major from Winnipeg, Manitoba. I enjoy working on projects in my spare time.</p>
+
+    <h3>I love to build things with code</h3>
+    <ul>
+        {% for page in site.pages %}
+            {% if page.layout == 'projects' %}
+                <li>
+                    <a href="{{ page.url }}">{{ page.title }}</a> &#8211; {{ page.intro }}
+                </li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+
+    <h3>I post, share and commit here</h3>
+    <ul>
+        {% for link in site.data.sociallinks %}
+            <li><strong>{{ link.website }}</strong> &#8211; <a href="{{ link.url }}">{{ link.username }}</a></li>
+        {% endfor %}
+    </ul>
+
+    <h3>Get a hold of me</h3>
+    <ul>
+        <li>Phone &#8211; 1 (20<span class="obfuscate">3281</span>4) 960 14<span class="obfuscate">482002</span>79</li>
+        <li>E-mail &#8211; jpa<span class="obfuscate">vdfiuh</span>rtaker@gma<span class="obfuscate">sadkljf</span>il.com</li>
+    </ul>
+
+</div>

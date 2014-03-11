@@ -1,0 +1,130 @@
+ /* Eric Meyer's Reset CSS v2.0 - http://cssreset.com */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}
+
+/* GENERAL */
+em{ font-style: italic; }
+strong{ font-weight: 700; }
+
+a{ text-decoration: none; }
+a:hover{ text-decoration: underline; }
+a:visited{ color: blue; }
+
+.clear { clear: both; }
+
+.obfuscate { display: none; }
+
+/* SITEWIDE */
+
+body{
+    font-family: 'Helvetica', 'arial', sans-serif;
+    padding: 50px 0;
+}
+
+.container{
+    width: 650px;
+    margin: auto;
+}
+
+/* HOME PAGE */
+#home-page h1{
+    font-family: 'Merriweather', serif;
+    font-size: 180%;
+    font-weight: 700;
+}
+
+#home-page h2{
+    font-size: 110%;
+    color: #555;
+    margin: 5px 0;
+}
+
+#home-page h3{
+    font-family: 'Merriweather', serif;
+    font-size: 150%;
+    margin: 40px 0 15px 0;
+    font-style: italic;
+    font-weight: 700;
+}
+
+#home-page li{
+    margin: 5px 0;
+    line-height: 1.3em;
+}
+
+#site-introduction{
+    font-family: 'Merriweather', serif;
+    font-size: 105%;
+    margin: 30px 0;
+    line-height: 1.6em;
+    color: #222;
+}
+
+/* PROJECT PAGE*/
+#project-page .back{
+    display: block; 
+    margin: 0 0 20px 0; 
+    float: left;
+    font-size: 90%;
+}
+
+#project-page .forward{
+    display: block;
+    margin: 0 0 20px 0;
+    float: right;
+    font-size: 90%;
+}
+
+#project-page h1{
+    font-family: 'Merriweather';
+    font-size: 180%;
+    font-weight: 700;
+    margin: 0 0 7px 0;
+}
+
+#project-page h2{
+    font-size: 100%;
+    margin: 7px 0 30px 0;
+    color: #555;
+    font-style: italic;
+}
+
+#project-page h3{
+    font-family: 'Merriweather', serif;
+    font-size: 150%;
+    font-weight: 400;
+    margin: 35px 0 20px 0;
+}
+
+#project-page h4{
+    font-family: 'Merriweather', serif;
+    font-size: 100%;
+    margin: 25px 0 10px 0;
+    font-weight: 700;
+}
+
+#project-page p{
+    margin: 15px 0;
+    color: #222;
+    line-height: 1.4em;
+    font-size: 90%;
+}
+
+#project-page img{
+    max-width: 100%;
+    margin: 10px 0 5px 0;
+}
+
+#project-page li{
+    font-size: 90%;
+    margin: 5px 0 5px 25px;
+    list-style-type: disc;
+}
+
+.caption{
+    margin: 0;
+    font-size: 80%;
+    font-style: italic;
+    line-height: 1.4em;
+}
+
+
