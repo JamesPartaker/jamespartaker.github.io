@@ -6,7 +6,7 @@ tags: Web Development / Ruby on Rails / Bootstrap / AWS
 
 ---
 
-Canada has a rental property search problem. Right now the most popular way to find rental properties is through magazines found in brick-and-mortar stores. These magazines likely have huge distribution costs, are slow to update, difficult to search through and are altogether going the way of the dinosaur. Obviously, the internet has been invented since printing presses; which is fascinating. Especially with mobile technology coming into maturity there is a huge opportunity to create real value in this area. However, most current online solutions falter when it comes to usability and adoption, often because they were built in the Netscape era.
+Canada has a rental property search problem. Right now the most popular way to find rental properties is through magazines found in brick-and-mortar stores. These magazines likely have huge distribution costs, are slow to update, difficult to search through and are altogether going the way of the dinosaur. Obviously, the internet gives us amazing new tools that we can use to solve these problems. Especially with mobile technology coming into maturity there is a huge opportunity to create real value in this area. However, most current online solutions falter when it comes to usability and adoption.
 
 The goal when creating Kabosu was simple: Develop a better way for people to find rental properties in Canada.
 
@@ -22,7 +22,6 @@ In designing the homepage there were a few main concepts that I wanted to follow
 **The next action to take should be clear**. The search bar framed in the middle of the page creates an obvious next step for the user. The magnifying glass icon tells the user that it is a search bar. The placeholder text, 'Enter a city, neighbourhood ...' gives direction. To reduce friction extra search fields were omitted from the homepage and added on the results page. 
     
 **Instill a sense of value**. It is key that you Instill a sense of value both in yourself and the properties that you're listing. It is especially important when associating with other companies. I accomplished this by using a clean, well structured layout, and paying attention to details like alignment and spacing.
-
 
 ### The Technology
 

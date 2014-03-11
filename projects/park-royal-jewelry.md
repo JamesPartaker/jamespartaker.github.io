@@ -20,12 +20,11 @@ So, we have the ability to build products, but what about everything else? We wa
 
 At the core of marketing and sales you have these established ideas that have been formalized from years of marketing knowledge. Establish marketing channels to generate qualified leads. Write a headline that outlines the key benefit. Add a clear call to action on your landing page. Copywriting that illustrates benefits. Beyond this, it's much more subjective. How do you appeal to your audience? Are you their advocate? What tone do you use when communicating?
 
-It's interesting to think about how people's perception's are influenced on such a fundamental level. Right down to shape, colour, composition, people have built up an intuitive sense of meaning. Your job is to think logically and use these elements to portray yourself in a way that aligns with your strategy.
+It's interesting to think about how people's perceptions are influenced on such a fundamental level. Down to shape, colour, composition, people have built up an intuitive sense of meaning of these elements. Your job is to think logically and use these elements to portray yourself in a way that aligns with your strategy.
 
 When it comes to the function of a design there is usually some behaviour that you want to encourage. With this in mind you should emphasize the proper elements or structure the design in a way that supports this behaviour. 
 
 This kind of thinking leads you to see that there is much more to a design than looking good. There should be purpose or  concept behind the choices that you make. You should have a cohesive strategy that brings together all your elements to reinforce the vision, all the way from appeal to function.
-
 
 #### Analytics &amp; Metrics  
 
