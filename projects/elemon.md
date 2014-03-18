@@ -6,9 +6,9 @@ tags: Game Development / Cocos2d-x / C++
 
 ---
 
-Social games were gaining in popularity over the past few years. Unfortunately, some were brazen in their attempts at extracting money from people by using manipulative tactics. They focused on building the game around these tactics, which was seen as a detriment to the quality of the gameplay. This lead a huge backlash against these 'pay-to-win' style games. 
+Social games have been gaining popularity over the past few years. Unfortunately, some have been brazen in their attempts at extracting money from people by using manipulative tactics. They focused on building the game around these tactics, which was seen as a detriment to the quality of the gameplay. This lead a huge backlash against these 'pay-to-win' style games. 
 
-As much as social games got a bad rap, I think that mobile apps are still a great platform to be able to build a great experience. They're still the new and cool thing that people love to talk about and so I think there is an opportunity to create something that people really value.
+As much as social games got a bad rap, I think that mobile apps are still a great platform to be able to build a great experience. They're still the new and cool thing that people love to talk about, and so I think there is an opportunity to create something that people really value.
 
 ![Elemon Logo](/images/elemon_logo.jpg)
 <div class="caption">Elemon logo</div>
@@ -25,7 +25,7 @@ People love to create things, Zoo Tycoon & Rollercoster Tycoon were amazing game
 
 Pokemon has an appeal like no other, I mean who doesn't love cute, colourful, fun animals? Pokemon really captured the imagination with mythology, character and story. There was enough mystery behind the world to make it intriguing to follow and learn about. 
 
-Rather than just plopping down boring, predictable animals, there is a sense of excitement every time you see a new Elemon that you haven't encountered before. Creating a world where there is an unknown element would be much more compelling for players to explore. As a game designer, this gives you an opportunity to add gameplay elements that may not make sense in a world that is true to our universe. What if 'Elemon' that could affect the weather? or can be combined to give special powers?
+Rather than just plopping down boring, predictable animals, there is a sense of excitement every time you see a new Elemon that you haven't encountered before. Creating a world where there is an unknown element would be much more compelling for players to explore. As a game designer, this gives you an opportunity to add gameplay elements that may not make sense in a world that is true to our universe. What if there were 'Elemon' that could affect the weather, or could be combined to give special powers?
 
 #### Social &amp; Community
 
@@ -35,7 +35,7 @@ Now I wouldn't call it a source of inspiration because of the bad track record, 
 
 #### The Game Engine
 
-[Cocos2d-x](http://www.cocos2d-x.org/) is a solid 2D game engine that is being used by some popular iOS games. It's based on the iOS engine cocos2d, but written in C++. With its ability to compile cross-platform to iOS, android and other mobile platforms it was a no-brainer. To add to that, it doesn't have any licensing costs, this was a huge benefit when compared to other game engines that can take a percentage of revenue or have a hefty upfront fee.
+[Cocos2d-x](http://www.cocos2d-x.org/) is a solid 2D game engine that is being used by some popular iOS games. It's based on the iOS engine cocos2d, but written in C++. With its ability to compile cross-platform to iOS, android and other mobile platforms it was a no-brainer. To add to that, it doesn't have any licensing costs; this was a huge benefit when compared to other game engines that can take a percentage of revenue or have a hefty upfront fee.
 
 
 #### Building a pathfinding system
