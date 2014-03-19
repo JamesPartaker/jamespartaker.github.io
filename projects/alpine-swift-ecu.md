@@ -19,23 +19,23 @@ Well, these jet engines need controllers to run them - and my brother is the fur
 
 ### The Engine
 
-The base engine design is a turbojet engine. This is a relatively simple design compared to other jet engine designs like turbofans. Each design has its own characteristics and this makes them each useful for their own applications. Turbojets aren't as fuel efficient at lower speeds when compared to turbofans but can achieve higher speeds (ie. faster planes).
+The base engine design is a turbojet engine. This is a relatively simple design compared to other jet engine designs like turbofans. Each design has unique characteristics that make it useful for different applications. Turbojets aren't as fuel efficient at lower speeds when compared to turbofans but can achieve higher speeds (ie. faster planes).
 
 #### Setting Goals &amp; Innovating
 
-Replicating something that's been done before isn't our idea of fun, we wanted to build some novel element to our engine. While we aren't going to redesign the entire concept of a jet engine there were aspects that we wanted to improve. On model jet engines there is progress to be made in areas like reliability, power, efficiency, and ease-of-use. By taking a few hints from full-sized jet engines we can take some modern technology and retrofit it into a smaller scale.
+Replicating something that's been done before isn't our idea of fun, we wanted to build some novel element to our engine. While we aren't going to redesign the entire concept of a jet engine, there were aspects that we wanted to improve. On model jet engines there is progress to be made in areas like reliability, power, efficiency, and ease-of-use. By taking a few hints from full-sized jet engines we can take some modern technology and retrofit it into a smaller scale.
 
-Most of the current model jet engines use fuel vaporizer tubes that allow the fuel to be heated to a vapour before setting it into the combustion chambers. Unfortunately, vaporizer tubes have a limited life because of the extreme heat that they are subjected to. They practically melt away. Starting the engine is more difficult with this design because the engine is cold. A better approach to this problem is to use a fuel nozzle that atomizes the fuel mechanically.  This is the method that we are using.
+Most of the current model jet engines use fuel vaporizer tubes that allow the fuel to be heated to a vapour before setting it into the combustion chambers. Unfortunately, vaporizer tubes have a limited life because of the extreme heat that they are subjected to. They practically melt away. Also, starting the engine is more difficult with this design because the engine is cold. A better approach to this problem is to use a fuel nozzle that atomizes the fuel mechanically.  This is the method that we are using.
 
-The base engine is slated to produce about 76lb of thrust based on models. This is adequate for most applications of these engines, but if you can go more, why not? An afterburner adds another 'stage' on to the end of the base engine where you can add more fuel -- for more power. It essentially increases the maximum power at the cost of fuel efficiency, however, since this stage can be turned on and off there is little cost when you're not using it.  
+The base engine is slated to produce about 76lb of thrust based on models. This is adequate for most applications of these engines, but if you can go more, why not? An afterburner adds another 'stage' on to the end of the base engine where you can add more fuel -- for more power. It essentially increases the maximum power at the cost of fuel efficiency. However, since this stage can be turned on and off, there is little cost when you're not using it.  
 
 ### The Engine Controller
 
-The ECU (Engine Control Unit) has the responsibility of managing the engine to ensure proper operation. It can control the engine through its outputs to the fuel pump, ignition and start up motor. Decisions are based on data taken from its sensors; thermocouples and a hall effect sensor, measuring turbine speed. By listening to external commands the ECU can be told to perform operations like starting up, shutting down or setting the throttle.
+The ECU (Engine Control Unit) has the responsibility of managing the engine to ensure proper operation. It can control the engine through its outputs to the fuel pump, ignition and start up motor. Decisions are based on data taken from its sensors: thermocouples and a hall effect sensor, measuring turbine speed. By listening to external commands the ECU can be told to perform operations like starting up, shutting down or setting the throttle.
 
 #### Managing Fuel Flow
 
-One decision that the ECU needs to make is how much fuel to add to the combustion chamber during acceleration. This decision has implications in the performance of the engine, but must be limited by the compressor's surge line. You cannot simply add a large amount of fuel into the combustion chambers quickly. Surge is a complicated phenomena by which the airflow reverses direction rapidly. It causes violent vibration that can damage the engine. By measuring the engines speed and pressure, the fuel flow is carefully managed by the ECU.
+One decision that the ECU needs to make is how much fuel to add to the combustion chamber during acceleration. This decision has implications in the performance of the engine, but must be limited by the compressor's surge line. You cannot simply add a large amount of fuel into the combustion chambers quickly. Surge is a complicated phenomenon by which the airflow reverses direction rapidly. It causes violent vibrations that can damage the engine. By measuring the engine's speed and pressure, the fuel flow is carefully managed by the ECU.
 
 #### And GO!
 
